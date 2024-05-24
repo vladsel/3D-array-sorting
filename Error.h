@@ -1,0 +1,6 @@
+#ifndef COURSE_WORK_FINAL_ERROR_H
+#define COURSE_WORK_FINAL_ERROR_H
+
+void Error();
+
+#endif //COURSE_WORK_FINAL_ERROR_H
